@@ -1,2 +1,1 @@
-# auto-updater-config
-PRIVATE thing
+# ignore this repo
