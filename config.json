@@ -4,7 +4,7 @@
   "profiles": [
     {
       "name": "server1",
-      "output_dir": "C:\\Users\\CHANGE_TO_YOURS\\AppData\\Roaming\\.minecraft\\mods",
+      "output_dir": "C:\\Users\\CHANGE_TO_YOUR_PC_USERNAME\\AppData\\Roaming\\.minecraft\\mods",
       "game_version": "1.19",
       "mod_loader": "Fabric",
       "mods": [
@@ -12,6 +12,18 @@
           "name": "Adorn",
           "identifier": {
             "CurseForgeProject": 320215
+          }
+        },
+        {
+          "name": "AppleSkin",
+          "identifier": {
+            "CurseForgeProject": 248787
+          }
+        },
+        {
+          "name": "Architectury API (Fabric/Forge)",
+          "identifier": {
+            "CurseForgeProject": 419699
           }
         },
         {
@@ -27,9 +39,33 @@
           }
         },
         {
+          "name": "Better Advancements",
+          "identifier": {
+            "CurseForgeProject": 272515
+          }
+        },
+        {
+          "name": "Better Statistics Screen (Fabric/Forge)",
+          "identifier": {
+            "CurseForgeProject": 667464
+          }
+        },
+        {
+          "name": "BetterF3",
+          "identifier": {
+            "CurseForgeProject": 401648
+          }
+        },
+        {
           "name": "Bookshelf",
           "identifier": {
             "CurseForgeProject": 228525
+          }
+        },
+        {
+          "name": "ChickensShed",
+          "identifier": {
+            "CurseForgeProject": 282684
           }
         },
         {
@@ -138,6 +174,18 @@
           "name": "Pleasant Pigeons",
           "identifier": {
             "CurseForgeProject": 580843
+          }
+        },
+        {
+          "name": "Roughly Enough Items Fabric/Forge (REI)",
+          "identifier": {
+            "CurseForgeProject": 310111
+          }
+        },
+        {
+          "name": "Simple Copper Pipes",
+          "identifier": {
+            "CurseForgeProject": 571336
           }
         },
         {
