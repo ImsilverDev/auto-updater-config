@@ -166,13 +166,3 @@
         }
       ]
     },
-    {
-      "name": "test",
-      "output_dir": "C:\\Users\\silv\\AppData\\Roaming\\.minecraft\\mods",
-      "game_version": "1.19",
-      "mod_loader": "Fabric",
-      "mods": []
-    }
-  ],
-  "modpacks": []
-}
