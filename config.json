@@ -1,1 +1,178 @@
-AAAAAAAAAAAA
+{
+  "active_profile": 0,
+  "active_modpack": 0,
+  "profiles": [
+    {
+      "name": "server1",
+      "output_dir": "C:\\Users\\silv\\AppData\\Roaming\\.minecraft\\mods",
+      "game_version": "1.19",
+      "mod_loader": "Fabric",
+      "mods": [
+        {
+          "name": "Adorn",
+          "identifier": {
+            "CurseForgeProject": 320215
+          }
+        },
+        {
+          "name": "Auditory",
+          "identifier": {
+            "CurseForgeProject": 636199
+          }
+        },
+        {
+          "name": "Balm (Fabric Edition)",
+          "identifier": {
+            "CurseForgeProject": 500525
+          }
+        },
+        {
+          "name": "Bookshelf",
+          "identifier": {
+            "CurseForgeProject": 228525
+          }
+        },
+        {
+          "name": "Cloth Config API (Fabric/Forge)",
+          "identifier": {
+            "CurseForgeProject": 348521
+          }
+        },
+        {
+          "name": "Cooking for Blockheads (Fabric Edition)",
+          "identifier": {
+            "CurseForgeProject": 634546
+          }
+        },
+        {
+          "name": "Croptopia",
+          "identifier": {
+            "CurseForgeProject": 415438
+          }
+        },
+        {
+          "name": "Fabric API",
+          "identifier": {
+            "CurseForgeProject": 306612
+          }
+        },
+        {
+          "name": "Fabric Language Kotlin",
+          "identifier": {
+            "CurseForgeProject": 308769
+          }
+        },
+        {
+          "name": "Fabric Seasons",
+          "identifier": {
+            "CurseForgeProject": 413523
+          }
+        },
+        {
+          "name": "ForgetMeChunk",
+          "identifier": {
+            "CurseForgeProject": 591317
+          }
+        },
+        {
+          "name": "Friends&Foes (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 551364
+          }
+        },
+        {
+          "name": "GeckoLib",
+          "identifier": {
+            "CurseForgeProject": 388172
+          }
+        },
+        {
+          "name": "Item Model Fix (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 399798
+          }
+        },
+        {
+          "name": "LazyDFU",
+          "identifier": {
+            "CurseForgeProject": 433518
+          }
+        },
+        {
+          "name": "Lithium (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 360438
+          }
+        },
+        {
+          "name": "Macaw's Bridges",
+          "identifier": {
+            "CurseForgeProject": 351725
+          }
+        },
+        {
+          "name": "Macaw's Doors",
+          "identifier": {
+            "CurseForgeProject": 378646
+          }
+        },
+        {
+          "name": "MemoryLeakFix",
+          "identifier": {
+            "CurseForgeProject": 627566
+          }
+        },
+        {
+          "name": "Mod Menu",
+          "identifier": {
+            "CurseForgeProject": 308702
+          }
+        },
+        {
+          "name": "Patchouli (Fabric/Quilt)",
+          "identifier": {
+            "CurseForgeProject": 393236
+          }
+        },
+        {
+          "name": "Pleasant Pigeons",
+          "identifier": {
+            "CurseForgeProject": 580843
+          }
+        },
+        {
+          "name": "Sodium",
+          "identifier": {
+            "CurseForgeProject": 394468
+          }
+        },
+        {
+          "name": "Starlight (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 521783
+          }
+        },
+        {
+          "name": "Tool Stats",
+          "identifier": {
+            "CurseForgeProject": 377109
+          }
+        },
+        {
+          "name": "Xaero's World Map",
+          "identifier": {
+            "CurseForgeProject": 317780
+          }
+        }
+      ]
+    },
+    {
+      "name": "test",
+      "output_dir": "C:\\Users\\silv\\AppData\\Roaming\\.minecraft\\mods",
+      "game_version": "1.19",
+      "mod_loader": "Fabric",
+      "mods": []
+    }
+  ],
+  "modpacks": []
+}
