@@ -4,7 +4,7 @@
   "profiles": [
     {
       "name": "server1",
-      "output_dir": "C:\\Users\\silv\\AppData\\Roaming\\.minecraft\\mods",
+      "output_dir": "C:\\Users\\YOUR_USERNAME\\AppData\\Roaming\\.minecraft\\mods",
       "game_version": "1.19",
       "mod_loader": "Fabric",
       "mods": [
