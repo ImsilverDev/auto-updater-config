@@ -4,7 +4,7 @@
   "profiles": [
     {
       "name": "server1",
-      "output_dir": "C:\\Users\\YOUR_USERNAME\\AppData\\Roaming\\.minecraft\\mods",
+      "output_dir": "C:\\Users\\PCUSERHERE\\AppData\\Roaming\\.minecraft\\mods",
       "game_version": "1.19",
       "mod_loader": "Fabric",
       "mods": [
@@ -95,7 +95,7 @@
         {
           "name": "Fabric API",
           "identifier": {
-            "CurseForgeProject": 306612
+            "ModrinthProject": "P7dR8mSH"
           }
         },
         {
@@ -216,12 +216,6 @@
           "name": "Tool Stats",
           "identifier": {
             "CurseForgeProject": 377109
-          }
-        },
-        {
-          "name": "Visuality",
-          "identifier": {
-            "ModrinthProject": "rI0hvYcd"
           }
         },
         {
