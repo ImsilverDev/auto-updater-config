@@ -4,7 +4,7 @@
   "profiles": [
     {
       "name": "server1",
-      "output_dir": "C:\\Users\\CHANGE_TO_YOUR_PC_USERNAME\\AppData\\Roaming\\.minecraft\\mods",
+      "output_dir": "C:\\Users\\YOUR_PC_USERNAME\\AppData\\Roaming\\.minecraft\\mods",
       "game_version": "1.19",
       "mod_loader": "Fabric",
       "mods": [
@@ -30,6 +30,12 @@
           "name": "Auditory",
           "identifier": {
             "CurseForgeProject": 636199
+          }
+        },
+        {
+          "name": "bad packets",
+          "identifier": {
+            "ModrinthProject": "ftdbN0KK"
           }
         },
         {
@@ -177,6 +183,12 @@
           }
         },
         {
+          "name": "Public Gui Announcement",
+          "identifier": {
+            "CurseForgeProject": 341727
+          }
+        },
+        {
           "name": "Roughly Enough Items Fabric/Forge (REI)",
           "identifier": {
             "CurseForgeProject": 310111
@@ -207,9 +219,33 @@
           }
         },
         {
+          "name": "Visuality",
+          "identifier": {
+            "ModrinthProject": "rI0hvYcd"
+          }
+        },
+        {
+          "name": "WTHIT",
+          "identifier": {
+            "ModrinthProject": "6AQIaxuO"
+          }
+        },
+        {
           "name": "Xaero's World Map",
           "identifier": {
             "CurseForgeProject": 317780
+          }
+        },
+        {
+          "name": "YetAnotherConfigLib",
+          "identifier": {
+            "CurseForgeProject": 667299
+          }
+        },
+        {
+          "name": "Zoomify",
+          "identifier": {
+            "CurseForgeProject": 574741
           }
         }
       ]
