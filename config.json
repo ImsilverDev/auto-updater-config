@@ -4,7 +4,7 @@
   "profiles": [
     {
       "name": "server1",
-      "output_dir": "C:\\Users\\PCUSERHERE\\AppData\\Roaming\\.minecraft\\mods",
+      "output_dir": "C:\\Users\\PCUSERRRRRR\\AppData\\Roaming\\.minecraft\\mods",
       "game_version": "1.19",
       "mod_loader": "Fabric",
       "mods": [
@@ -90,6 +90,12 @@
           "name": "Croptopia",
           "identifier": {
             "CurseForgeProject": 415438
+          }
+        },
+        {
+          "name": "Enchanted Vertical Slabs",
+          "identifier": {
+            "CurseForgeProject": 559148
           }
         },
         {
