@@ -4,7 +4,7 @@
   "profiles": [
     {
       "name": "server1",
-      "output_dir": "C:\\Users\\PCUSERRRRRR\\AppData\\Roaming\\.minecraft\\mods",
+      "output_dir": "C:\\Users\\PCUSER\\AppData\\Roaming\\.minecraft\\mods",
       "game_version": "1.19",
       "mod_loader": "Fabric",
       "mods": [
@@ -135,6 +135,12 @@
           }
         },
         {
+          "name": "Get Off My Lawn ReServed",
+          "identifier": {
+            "ModrinthProject": "j5niDupl"
+          }
+        },
+        {
           "name": "Item Model Fix (Fabric)",
           "identifier": {
             "CurseForgeProject": 399798
@@ -173,7 +179,7 @@
         {
           "name": "Mod Menu",
           "identifier": {
-            "CurseForgeProject": 308702
+            "ModrinthProject": "mOgUt4GM"
           }
         },
         {
