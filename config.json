@@ -4,7 +4,7 @@
   "profiles": [
     {
       "name": "server1",
-      "output_dir": "C:\\Users\\PCUSER\\AppData\\Roaming\\.minecraft\\mods",
+      "output_dir": "C:\\Users\\USERNAMEHERE\\AppData\\Roaming\\.minecraft\\mods",
       "game_version": "1.19",
       "mod_loader": "Fabric",
       "mods": [
@@ -60,6 +60,12 @@
           "name": "BetterF3",
           "identifier": {
             "CurseForgeProject": 401648
+          }
+        },
+        {
+          "name": "Bits And Chisels",
+          "identifier": {
+            "ModrinthProject": "q8MC5tW2"
           }
         },
         {
@@ -141,6 +147,12 @@
           }
         },
         {
+          "name": "Indium",
+          "identifier": {
+            "ModrinthProject": "Orvt0mRa"
+          }
+        },
+        {
           "name": "Item Model Fix (Fabric)",
           "identifier": {
             "CurseForgeProject": 399798
@@ -215,7 +227,7 @@
         {
           "name": "Sodium",
           "identifier": {
-            "CurseForgeProject": 394468
+            "ModrinthProject": "AANobbMI"
           }
         },
         {
