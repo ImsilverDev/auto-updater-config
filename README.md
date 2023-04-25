@@ -1,1 +1,1 @@
-# ignore this repo
+# auto updater for smth lol
