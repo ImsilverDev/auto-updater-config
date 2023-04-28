@@ -4,7 +4,7 @@
   "profiles": [
     {
       "name": "server1",
-      "output_dir": "C:\\Users\\USERNAMEHERE!!!\\AppData\\Roaming\\.minecraft\\mods",
+      "output_dir": "C:\\Users\\USERHERE\\AppData\\Roaming\\.minecraft\\mods",
       "game_version": "1.19.2",
       "mod_loader": "Fabric",
       "mods": [
@@ -75,15 +75,21 @@
           }
         },
         {
-          "name": "ChickensShed",
+          "name": "Botania",
           "identifier": {
-            "CurseForgeProject": 282684
+            "ModrinthProject": "pfjLUfGv"
           }
         },
         {
-          "name": "Cloth Config API (Fabric/Forge)",
+          "name": "Carry On",
           "identifier": {
-            "CurseForgeProject": 348521
+            "CurseForgeProject": 274259
+          }
+        },
+        {
+          "name": "Cloth Config API",
+          "identifier": {
+            "ModrinthProject": "9s6osm5g"
           }
         },
         {
@@ -99,9 +105,33 @@
           }
         },
         {
+          "name": "Cull Less Leaves",
+          "identifier": {
+            "ModrinthProject": "iG6ZHsUV"
+          }
+        },
+        {
+          "name": "Debugify",
+          "identifier": {
+            "ModrinthProject": "QwxR6Gcd"
+          }
+        },
+        {
+          "name": "EditSign",
+          "identifier": {
+            "ModrinthProject": "hFMCvH85"
+          }
+        },
+        {
           "name": "Enchanted Vertical Slabs",
           "identifier": {
             "CurseForgeProject": 559148
+          }
+        },
+        {
+          "name": "Enhanced Attack Indicator",
+          "identifier": {
+            "ModrinthProject": "eTy17BBS"
           }
         },
         {
@@ -123,6 +153,12 @@
           }
         },
         {
+          "name": "Forge Config API Port",
+          "identifier": {
+            "ModrinthProject": "ohNO6lps"
+          }
+        },
+        {
           "name": "Friends&Foes (Fabric)",
           "identifier": {
             "CurseForgeProject": 551364
@@ -141,9 +177,27 @@
           }
         },
         {
+          "name": "HT's TreeChop",
+          "identifier": {
+            "ModrinthProject": "gHoB7SHO"
+          }
+        },
+        {
+          "name": "ImmediatelyFast",
+          "identifier": {
+            "ModrinthProject": "5ZwdcRci"
+          }
+        },
+        {
           "name": "Indium",
           "identifier": {
             "ModrinthProject": "Orvt0mRa"
+          }
+        },
+        {
+          "name": "InvMove",
+          "identifier": {
+            "ModrinthProject": "REfW2AEX"
           }
         },
         {
@@ -189,6 +243,18 @@
           }
         },
         {
+          "name": "Mouse Wheelie",
+          "identifier": {
+            "ModrinthProject": "u5Ic2U1u"
+          }
+        },
+        {
+          "name": "Patchouli",
+          "identifier": {
+            "ModrinthProject": "nU0bVIaL"
+          }
+        },
+        {
           "name": "Patchouli (Fabric/Quilt)",
           "identifier": {
             "CurseForgeProject": 393236
@@ -225,9 +291,27 @@
           }
         },
         {
+          "name": "Status Effect Timer",
+          "identifier": {
+            "ModrinthProject": "T9FDHbY5"
+          }
+        },
+        {
           "name": "Tool Stats",
           "identifier": {
             "CurseForgeProject": 377109
+          }
+        },
+        {
+          "name": "Trinkets",
+          "identifier": {
+            "ModrinthProject": "5aaWibi9"
+          }
+        },
+        {
+          "name": "WI Zoom",
+          "identifier": {
+            "CurseForgeProject": 349630
           }
         },
         {
@@ -246,12 +330,6 @@
           "name": "YetAnotherConfigLib",
           "identifier": {
             "CurseForgeProject": 667299
-          }
-        },
-        {
-          "name": "Zoomify",
-          "identifier": {
-            "CurseForgeProject": 574741
           }
         }
       ]
