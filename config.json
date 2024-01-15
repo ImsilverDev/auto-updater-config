@@ -4,7 +4,7 @@
   "profiles": [
     {
       "name": "server1",
-      "output_dir": "C:\\Users\\USERHERE\\AppData\\Roaming\\.minecraft\\mods",
+      "output_dir": "C:\\Users\\USERHANEMHERE\\AppData\\Roaming\\.minecraft\\mods",
       "game_version": "1.19.2",
       "mod_loader": "Fabric",
       "mods": [
@@ -171,21 +171,9 @@
           }
         },
         {
-          "name": "Get Off My Lawn ReServed",
-          "identifier": {
-            "ModrinthProject": "j5niDupl"
-          }
-        },
-        {
           "name": "HT's TreeChop",
           "identifier": {
             "ModrinthProject": "gHoB7SHO"
-          }
-        },
-        {
-          "name": "ImmediatelyFast",
-          "identifier": {
-            "ModrinthProject": "5ZwdcRci"
           }
         },
         {
@@ -228,12 +216,6 @@
           "name": "Macaw's Doors",
           "identifier": {
             "CurseForgeProject": 378646
-          }
-        },
-        {
-          "name": "MemoryLeakFix",
-          "identifier": {
-            "CurseForgeProject": 627566
           }
         },
         {
