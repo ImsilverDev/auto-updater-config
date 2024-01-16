@@ -4,8 +4,8 @@
   "profiles": [
     {
       "name": "server1",
-      "output_dir": "C:\\Users\\USERHANEMHERE\\AppData\\Roaming\\.minecraft\\mods",
-      "game_version": "1.19.2",
+      "output_dir": "C:\\Users\\USERNAMEHERE\\AppData\\Roaming\\.minecraft\\mods",
+      "game_version": "1.20.1",
       "mod_loader": "Fabric",
       "mods": [
         {
@@ -24,12 +24,6 @@
           "name": "Architectury API (Fabric/Forge)",
           "identifier": {
             "CurseForgeProject": 419699
-          }
-        },
-        {
-          "name": "Auditory",
-          "identifier": {
-            "CurseForgeProject": 636199
           }
         },
         {
@@ -117,12 +111,6 @@
           }
         },
         {
-          "name": "EditSign",
-          "identifier": {
-            "ModrinthProject": "hFMCvH85"
-          }
-        },
-        {
           "name": "Enchanted Vertical Slabs",
           "identifier": {
             "CurseForgeProject": 559148
@@ -132,6 +120,12 @@
           "name": "Enhanced Attack Indicator",
           "identifier": {
             "ModrinthProject": "eTy17BBS"
+          }
+        },
+        {
+          "name": "EpheroLib",
+          "identifier": {
+            "CurseForgeProject": 885449
           }
         },
         {
@@ -150,6 +144,12 @@
           "name": "Fabric Seasons",
           "identifier": {
             "CurseForgeProject": 413523
+          }
+        },
+        {
+          "name": "FerriteCore",
+          "identifier": {
+            "ModrinthProject": "uXXizFIs"
           }
         },
         {
@@ -186,12 +186,6 @@
           "name": "InvMove",
           "identifier": {
             "ModrinthProject": "REfW2AEX"
-          }
-        },
-        {
-          "name": "Item Model Fix (Fabric)",
-          "identifier": {
-            "CurseForgeProject": 399798
           }
         },
         {
@@ -237,15 +231,9 @@
           }
         },
         {
-          "name": "Patchouli (Fabric/Quilt)",
+          "name": "Pufferfish's Skills",
           "identifier": {
-            "CurseForgeProject": 393236
-          }
-        },
-        {
-          "name": "Public Gui Announcement",
-          "identifier": {
-            "CurseForgeProject": 341727
+            "ModrinthProject": "hqQqvaa4"
           }
         },
         {
@@ -267,15 +255,21 @@
           }
         },
         {
+          "name": "stacc-api",
+          "identifier": {
+            "CurseForgeProject": 820136
+          }
+        },
+        {
           "name": "Starlight (Fabric)",
           "identifier": {
             "CurseForgeProject": 521783
           }
         },
         {
-          "name": "Status Effect Timer",
+          "name": "Status Effect Bars",
           "identifier": {
-            "ModrinthProject": "T9FDHbY5"
+            "ModrinthProject": "x02cBj9Y"
           }
         },
         {
