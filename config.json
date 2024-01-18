@@ -57,6 +57,12 @@
           }
         },
         {
+          "name": "BetterHurtCam",
+          "identifier": {
+            "ModrinthProject": "o4y0N2hu"
+          }
+        },
+        {
           "name": "Bits And Chisels",
           "identifier": {
             "ModrinthProject": "q8MC5tW2"
@@ -177,6 +183,12 @@
           }
         },
         {
+          "name": "ImmediatelyFast",
+          "identifier": {
+            "ModrinthProject": "5ZwdcRci"
+          }
+        },
+        {
           "name": "Indium",
           "identifier": {
             "ModrinthProject": "Orvt0mRa"
@@ -255,6 +267,12 @@
           }
         },
         {
+          "name": "Sodium Extra",
+          "identifier": {
+            "ModrinthProject": "PtjYWJkn"
+          }
+        },
+        {
           "name": "stacc-api",
           "identifier": {
             "CurseForgeProject": 820136
@@ -282,6 +300,12 @@
           "name": "Trinkets",
           "identifier": {
             "ModrinthProject": "5aaWibi9"
+          }
+        },
+        {
+          "name": "ukulib",
+          "identifier": {
+            "ModrinthProject": "Y8uFrUil"
           }
         },
         {
