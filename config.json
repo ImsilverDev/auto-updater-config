@@ -129,6 +129,12 @@
           }
         },
         {
+          "name": "Enhanced Block Entities",
+          "identifier": {
+            "ModrinthProject": "OVuFYfre"
+          }
+        },
+        {
           "name": "EpheroLib",
           "identifier": {
             "CurseForgeProject": 885449
@@ -201,6 +207,12 @@
           }
         },
         {
+          "name": "LambDynamicLights",
+          "identifier": {
+            "ModrinthProject": "yBW8D80W"
+          }
+        },
+        {
           "name": "LazyDFU",
           "identifier": {
             "CurseForgeProject": 433518
@@ -225,9 +237,21 @@
           }
         },
         {
+          "name": "Measurements",
+          "identifier": {
+            "ModrinthProject": "wLINU2AB"
+          }
+        },
+        {
           "name": "Mod Menu",
           "identifier": {
             "ModrinthProject": "mOgUt4GM"
+          }
+        },
+        {
+          "name": "More Culling",
+          "identifier": {
+            "ModrinthProject": "51shyZVL"
           }
         },
         {
