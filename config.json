@@ -93,6 +93,12 @@
           }
         },
         {
+          "name": "Continuity",
+          "identifier": {
+            "ModrinthProject": "1IjD5062"
+          }
+        },
+        {
           "name": "Cooking for Blockheads (Fabric Edition)",
           "identifier": {
             "CurseForgeProject": 634546
@@ -117,6 +123,12 @@
           }
         },
         {
+          "name": "Detail Armor Bar",
+          "identifier": {
+            "ModrinthProject": "hAt6ty93"
+          }
+        },
+        {
           "name": "Enchanted Vertical Slabs",
           "identifier": {
             "CurseForgeProject": 559148
@@ -138,6 +150,12 @@
           "name": "EpheroLib",
           "identifier": {
             "CurseForgeProject": 885449
+          }
+        },
+        {
+          "name": "Exordium",
+          "identifier": {
+            "ModrinthProject": "DynYZEae"
           }
         },
         {
@@ -294,6 +312,12 @@
           "name": "Sodium Extra",
           "identifier": {
             "ModrinthProject": "PtjYWJkn"
+          }
+        },
+        {
+          "name": "Sound Physics Remastered",
+          "identifier": {
+            "ModrinthProject": "qyVF9oeo"
           }
         },
         {
