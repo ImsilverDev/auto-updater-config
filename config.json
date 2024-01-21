@@ -33,6 +33,18 @@
           }
         },
         {
+          "name": "BadOptimizations",
+          "identifier": {
+            "ModrinthProject": "g96Z4WVZ"
+          }
+        },
+        {
+          "name": "Balm",
+          "identifier": {
+            "ModrinthProject": "MBAkmtvl"
+          }
+        },
+        {
           "name": "Balm (Fabric Edition)",
           "identifier": {
             "CurseForgeProject": 500525
@@ -81,6 +93,12 @@
           }
         },
         {
+          "name": "Capes",
+          "identifier": {
+            "ModrinthProject": "89Wsn8GD"
+          }
+        },
+        {
           "name": "Carry On",
           "identifier": {
             "CurseForgeProject": 274259
@@ -114,6 +132,12 @@
           "name": "Cull Less Leaves",
           "identifier": {
             "ModrinthProject": "iG6ZHsUV"
+          }
+        },
+        {
+          "name": "Cupboard",
+          "identifier": {
+            "CurseForgeProject": 326652
           }
         },
         {
@@ -222,6 +246,18 @@
           "name": "InvMove",
           "identifier": {
             "ModrinthProject": "REfW2AEX"
+          }
+        },
+        {
+          "name": "KleeSlabs",
+          "identifier": {
+            "ModrinthProject": "7uh75ruZ"
+          }
+        },
+        {
+          "name": "Krypton",
+          "identifier": {
+            "ModrinthProject": "fQEb0iXm"
           }
         },
         {
